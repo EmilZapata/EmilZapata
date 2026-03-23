@@ -4,8 +4,6 @@
 
 # Emil Helmut Zapata Arellano
 
-<img src="assets/emil-zapata.png" alt="Emil Helmut Zapata Arellano" width="200" />
-
 <p>
   <b>Languages / Idiomas:</b>
   <a href="#english">English</a> · <a href="#es">Español</a>
